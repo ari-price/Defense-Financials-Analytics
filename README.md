@@ -34,7 +34,7 @@ How to Run
 bash
 pip install yfinance pandas numpy scipy statsmodels matplotlib seaborn
 jupyter notebook defense_contractors_analysis.ipynb
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ari-price/Defense-Financial-Analytics/blob/main/defense_contractors_analysis.ipynb)
+[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/google/colab/index.ipynb)
 
 Price, volume, earnings and VIX data come from Yahoo Finance through yfinance. To analyze a different basket or period, change tickers, start and end in the configuration cell.
 
